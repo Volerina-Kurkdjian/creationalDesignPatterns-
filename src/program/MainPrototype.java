@@ -1,7 +1,7 @@
 package program;
 
-import prototype.classes.AbstractPrototype;
-import prototype.classes.DrugPrescription;
+import prototype.AbstractPrototype;
+import prototype.DrugPrescription;
 
 import java.util.ArrayList;
 import java.util.List;

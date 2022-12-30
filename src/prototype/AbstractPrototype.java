@@ -1,4 +1,4 @@
-package prototype.classes;
+package prototype;
 
 public interface AbstractPrototype {
 
